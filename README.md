@@ -1,5 +1,10 @@
 # twitter
 
-Placeholder repository for master thesis work. 
+Placeholder for master thesis work. 
 
-Majority of content in Master Thesis is currentlty under review at ACL 2023 and will be under review at EMNLP 2023. 
+Majority of this work under review at  
+[ACL 2023](https://2023.aclweb.org/) 
+and will be under review at
+[EMNLP 2023](https://2023.emnlp.org/.)
+
+Corpora, code and results will be made availble here after the anonymity period. 
